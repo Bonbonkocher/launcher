@@ -7,25 +7,25 @@
 Ich versuche ein Launcher für ein Game/Programm zur erstellen
 
 
-## Features
-
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
-
-
 ## Screenshots
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
+
+## Features
+~~
+- Hell/Dunkel Modus umschaltbar
+- Live previews
+- Vollbild Modus
+- Plattformübergreifend (Linux + Windows, vieleicht auch Mac)
+~~
 
 ## Roadmap
 
 - Start Einstellungen, Ram nutzung, Pfad, Vollbild usw.
 - Login User + Password, und/oder Gastzugang
 - Installpfad anpassbar (Linux + Windows, vieleicht auch Mac)
-- wweiteres kommt noch
+- weiteres kommt noch
 
 ## Installation
 
@@ -44,4 +44,3 @@ For support, email fake@fake.com or join our Slack channel.
 ## Authors
 
 - [@Bonbonkocher](https://www.github.com/Bonbonkocher)
-

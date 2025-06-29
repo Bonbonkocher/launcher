@@ -1,5 +1,9 @@
 package de.bonbonkocher.launcher.window;
 
+import de.bonbonkocher.launcher.AppVersion;
+import static de.bonbonkocher.launcher.AppVersion.GAMENAME;
+import static de.bonbonkocher.launcher.AppVersion.N;
+import static de.bonbonkocher.launcher.AppVersion.VERSION;
 import java.awt.Dimension;
 import javax.swing.JFrame;
 import javax.swing.JMenuBar;
@@ -16,18 +20,7 @@ public class MainWindow extends JFrame{
     public static int windowH = 400;
      
     public MainWindow() {
-        String N = " ";
-        String P = ".";
-        String MAJOR = "0";
-        String MINOR = "0";
-        String PATCH = "0";
-        
-        String PHASES = "TEST ";
-        String SEMVER = "Version" + N + MAJOR + P + MINOR + P + PATCH;
-        String GAMENAME = "Erstes Game";
-        
-        String VERSION = PHASES + N + SEMVER;
-         
+        new AppVersion();
         Panel = new GamePanel();      
         Panel.setPreferredSize(new Dimension(windowL, windowH));
         registerWindowListener();
