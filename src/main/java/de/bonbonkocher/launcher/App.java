@@ -3,12 +3,12 @@
  */
 package de.bonbonkocher.launcher;
 
-public class App {
-    public String getGreeting() {
-        return "Hello World!";
-    }
+import de.bonbonkocher.launcher.window.MainWindow;
 
+public class App {
     public static void main(String[] args) {
-        System.out.println(new App().getGreeting());
+        //MainWindow gameWindow = new MainWindow();
+        new MainWindow();
     }
+    
 }
