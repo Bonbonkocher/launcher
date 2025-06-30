@@ -13,12 +13,12 @@ Ich versuche ein Launcher für ein Game/Programm zur erstellen
 
 
 ## Features
-~~
-- Hell/Dunkel Modus umschaltbar
-- Live previews
-- Vollbild Modus
-- Plattformübergreifend (Linux + Windows, vieleicht auch Mac)
-~~
+
+- ~~Hell/Dunkel Modus umschaltbar~~
+- ~~Live previews~~
+- ~~Vollbild Modus~~
+- ~~Plattformübergreifend (Linux + Windows, vieleicht auch Mac)~~
+
 
 ## Roadmap
 
