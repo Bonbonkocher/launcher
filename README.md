@@ -14,31 +14,35 @@ Ich versuche ein Launcher für ein Game/Programm zur erstellen
 
 ## Features
 
-- ~~Hell/Dunkel Modus umschaltbar~~
-- ~~Live previews~~
-- ~~Vollbild Modus~~
-- ~~Plattformübergreifend (Linux + Windows, vieleicht auch Mac)~~
-
 
 ## Roadmap
 
 - Start Einstellungen, Ram nutzung, Pfad, Vollbild usw.
 - Login User + Password, und/oder Gastzugang
-- Installpfad anpassbar (Linux + Windows, vieleicht auch Mac)
+- Plattformübergreifend (Linux + Windows, vieleicht auch Mac)
 - weiteres kommt noch
 
 ## Installation
+### Vorrausetzung
+- Installieren sie bitte Java, auf dem System
 
-Install my-project with npm
+### Linux Debian
+- Download [Launcher.jar](https://github.com/Bonbonkocher/launcher/releases)
 
 ```bash
   npm install my-project
   cd my-project
 ```
+
+### Windows
+- Download [Launcher.jar](https://github.com/Bonbonkocher/launcher/releases)
+
+### Mac
+- Download [Launcher.jar](https://github.com/Bonbonkocher/launcher/releases)
     
 ## Support
 
-For support, email fake@fake.com or join our Slack channel.
+For support and issues look please --> [Issues](https://github.com/Bonbonkocher/launcher/issues).
 
 
 ## Authors
